@@ -1,5 +1,6 @@
 # 🌍AdEco: 2023_Girls_in_ICT🌍
 **: What connected services would be needed for us to adapt to changing temperature of Earth?**
+<br>➡️ https://www.ericssonlg.com/en/events/girls-in-ict-2023-hackathon
 
 <br><br><h2>🌱About Our Idea!🌱</h2>
 <h3>🚨A Disaster Detection & Response Support System: The combination of Embedded Boards and SW</h3>

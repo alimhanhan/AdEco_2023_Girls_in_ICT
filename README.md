@@ -11,7 +11,8 @@
 
 <h3>🚨Background of Development</h3>
 : Announced by UNDRR the number of disasters on Earth  is increasing  as the climate crisis becomes serious.<br>
-: As the Earth's climate deteriorates, the frequency of disasters increases, and accordingly, our team AdEco designed a Disaster Detecton and Resonse System. 
+--> As the Earth's climate deteriorates, the frequency of disasters increases, and accordingly, our team AdEco designed a **Disaster Detecton and Resonse System**.
+
 
 
 <br><br><br><h2>🌱Overviews of System Operation🌱</h2>

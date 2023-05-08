@@ -16,7 +16,7 @@
 
 <h3>🚨Expectation Effectiveness</h3>
 
-: According to data from the `SENDAI FRAMEWORK`, 14 out of 195 countries have multiple risk early warning systems, and only 0.46% of the world has predictive systems.<br>
+: According to data from the `SENDAI FRAMEWORK`, 14 out of 195 countries have multiple risk early warning systems, and only `0.46%` of the world has `predictive systems`.<br>
 👉 So by deploying this system in each country, we can make a world that's `predicted by disasters`.
 
 <br><br><br><h2>🌱Overviews of System Operation🌱</h2>

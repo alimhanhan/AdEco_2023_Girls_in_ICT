@@ -34,3 +34,13 @@
 
 <br><br><br><h2>🌱System & User Interface🌱</h2>
 ![4](https://user-images.githubusercontent.com/102565567/234805501-765c2937-32ce-4f69-9641-f4dabc3b4ea4.png)
+
+<h3>🚨Monitoring pages for Administrators & Disaster Alert for Users</h3>
+
+: Announced by UNDRR the number of disasters on Earth  is increasing  as the climate crisis becomes serious.<br>
+👉 As the Earth's climate deteriorates, the frequency of disasters increases, and accordingly, our team AdEco designed a **Disaster Detecton and Resonse System**<br><br>
+
+<h3>🚨Emergency call with GPS</h3>
+
+: According to data from the `SENDAI FRAMEWORK`, 14 out of 195 countries have multiple risk early warning systems, and only `0.46%` of the world has `predictive systems`.<br>
+👉 So by deploying this system in each country, we can make a world that's `predicted by disasters`.

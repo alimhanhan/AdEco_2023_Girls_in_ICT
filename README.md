@@ -24,8 +24,11 @@
 
 <h3>🚨Disaster Lists to be Detected & Sensors to be used </h3>
 
-: Announced by UNDRR the number of disasters on Earth  is increasing  as the climate crisis becomes serious.<br>
-👉 As the Earth's climate deteriorates, the frequency of disasters increases, and accordingly, our team AdEco designed a **Disaster Detecton and Resonse System**<br><br>
+: The disasters that can be detected by the program include fire, flood, earthquake, and typhoon. Different sensors are used for detecting each disaster, and the list is as follows.<br>
+• `Fire` ➡️ Flame detection sensor & Temperature sensor<br>
+• `Flood` ➡️ Humidity detection sensor<br>
+• `Earthquake` ➡️ Acceleration sensor & Gyro sensor<br>
+• `Typhoon` ➡️ Wind speed detection sesor<br><br>
 
 <h3>🚨Flow Charts & Disaster Detection Algorithms</h3>
 

@@ -24,7 +24,7 @@
 
 <h3>🚨Disaster Lists to be Detected & Sensors to be used </h3>
 
-: The disasters that can be detected by the program include fire, flood, earthquake, and typhoon. Different sensors are used for detecting each disaster, and the list is as follows.<br>
+: The disasters that can be detected by the program include fire, flood, earthquake, and typhoon. Different sensors are used for detecting each disaster, and the list is as follows.<br><br>
 • `Fire` ➡️ Flame detection sensor & Temperature sensor<br>
 • `Flood` ➡️ Humidity detection sensor<br>
 • `Earthquake` ➡️ Acceleration sensor & Gyro sensor<br>
@@ -32,8 +32,11 @@
 
 <h3>🚨Flow Charts & Disaster Detection Algorithms</h3>
 
-: According to data from the `SENDAI FRAMEWORK`, 14 out of 195 countries have multiple risk early warning systems, and only `0.46%` of the world has `predictive systems`.<br>
-👉 So by deploying this system in each country, we can make a world that's `predicted by disasters`.
+: Each disaster has its own detection algorithm, and the details are as follows. There are also differences in the measured factors for each algorithm, and the details are as follows.<br><br>
+• `Fire detection` ➡️ Presence of flames and temperature measurement<br>
+• `Earthquake detection` ➡️ Angle and acceleration measurement<br>
+• `Flood detection` ➡️ Humidity measurement<br>
+• `Typhoon detection` ➡️ Wind speed measurement
 
 <br><br><br><h2>🌱System & User Interface🌱</h2>
 ![4](https://user-images.githubusercontent.com/102565567/234805501-765c2937-32ce-4f69-9641-f4dabc3b4ea4.png)

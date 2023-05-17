@@ -22,12 +22,12 @@
 <br><br><br><h2>🌱Overviews of System Operation🌱</h2>
 ![3](https://user-images.githubusercontent.com/102565567/234805366-71137e4d-5588-4e44-9d4b-ab9bdf766173.png)
 
-<h3>🚨Distasters Sendors to be used </h3>
+<h3>🚨Distaster Lists to be Detected & Sensors to be used </h3>
 
 : Announced by UNDRR the number of disasters on Earth  is increasing  as the climate crisis becomes serious.<br>
 👉 As the Earth's climate deteriorates, the frequency of disasters increases, and accordingly, our team AdEco designed a **Disaster Detecton and Resonse System**<br><br>
 
-<h3>🚨Expectation Effectiveness</h3>
+<h3>🚨Flow Charts & Disaster Detection Algorithms</h3>
 
 : According to data from the `SENDAI FRAMEWORK`, 14 out of 195 countries have multiple risk early warning systems, and only `0.46%` of the world has `predictive systems`.<br>
 👉 So by deploying this system in each country, we can make a world that's `predicted by disasters`.
